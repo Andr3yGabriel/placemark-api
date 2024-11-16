@@ -1,0 +1,97 @@
+# Compiled object files
+*.o
+*.obj
+*.dll
+*.exe
+*.pdb
+*.testresults
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.builds
+
+# Build directories
+bin/
+obj/
+out/
+
+# Visual Studio Files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Microsoft Azure SDK
+.publishsettings
+
+# Styles
+_Resharper.Caches/
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Others
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Python virtual environment
+env/
+venv/
+
+# Node.js
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Test Results
+TestResults/
+
+# NCrunch
+*.ncrunch*
+_NCrunch_*
+.ncrunchsolution
+.ncrunchproject
+
+# Additional directories
+!src/**/bin/
+!src/**/obj/
